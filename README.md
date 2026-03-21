@@ -30,12 +30,12 @@ a 9V batterries output down to a safer 5V for the microcontroller. You can power
 Once plugged in, the device dose not have any indicator lights but you should be able to open your WIFI settings and find and connect to the system named MY_WIFI_Remote by defult. if you do not
 see this, plaese make sure your battery is charged.
 
-![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/Screenshot_20260311_235254_One UI Home.jpg?raw=true)
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/Screenshot_20260311_235254_One%20UI%20Home.jpg?raw=true)
 
 You can change your devicecs WIFI credentials in the code but by default the SSID is MY_Wifi_Remote and the password is 12345678. once connected, the web app contrroller can be reached by entering 192.168.1.1 into
 your searchbar or by scanning the provided qr code.
 
-![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/Screenshot 2026-03-18 152705.png?raw=true)
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/Screenshot%202026-03-18%20152705.png?raw=true)
 
 once on the web app, you can toggle between having your system behave as a momentary or latching switch.
 - **momentary switch** : this mode allowes the switch to stay on only while your finger is actively holding the button down
