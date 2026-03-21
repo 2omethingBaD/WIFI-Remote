@@ -11,4 +11,9 @@ This project is designed to control a device via WIFI using the provided web app
 before powering on the device, attach either your low power device that can be powered directly form the microcontroller (ie devices that need less than 3.3V to operate) or the included 3.3V relay into the
 screw terminals if your device requires more power.
 
-The screw terminal
+The screw terminal is wired to the microcontroller in the following way and is marked:
+- **-** : is connected to ground
+- **in** : is connected to a gpio pin that controls the switching for your device
+- **+** : is connected to a 3.3v pin ONLY meant to power the relay if you choose to use it
+
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/20260318_032626.jpg?raw=true)
