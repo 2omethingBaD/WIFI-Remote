@@ -17,6 +17,8 @@ The screw terminal is wired to the microcontroller in the following way and is m
 - **+** : is connected to a 3.3v pin ONLY meant to power the relay if you choose to use it
 
 ![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/20260318_032626.jpg?raw=true)
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/20260318_032057.jpg?raw=true)
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/20260318_032343.jpg?raw=true)
 
 after your device is properly screwed into the screw terminal, power on the device by plugging in the provided buckle to usbc adaptor into the microcontroller. this converter features a buck converter to convert
 a 9V batterries output down to a safer 5V for the microcontroller. You can power the system with any 5V source through the usbc port on the microcontroller but the power sourse should NOT exeed 5V.
