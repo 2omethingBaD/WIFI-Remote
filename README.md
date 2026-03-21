@@ -35,4 +35,11 @@ see this, plaese make sure your battery is charged.
 You can change your devicecs WIFI credentials in the code but by default the SSID is MY_Wifi_Remote and the password is 12345678. once connected, the web app contrroller can be reached by entering 192.168.1.1 into
 your searchbar or by scanning the provided qr code.
 
-![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/152705.png?raw=true)
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/Screenshot 2026-03-18 152705.png?raw=true)
+
+once on the web app, you can toggle between having your system behave as a momentary or latching switch.
+- **momentary switch** : this mode allowes the switch to stay on only while your finger is actively holding the button down
+- **latching switch** : this mode will keep the switch on or off even if you ccompletely disconnect from the system
+
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/Screenshot_20260318_031517_Chrome.jpg?raw=true)
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/WIFI-Remote/blob/main/Pics/Screenshot_20260318_031529_Chrome.jpg?raw=true)
